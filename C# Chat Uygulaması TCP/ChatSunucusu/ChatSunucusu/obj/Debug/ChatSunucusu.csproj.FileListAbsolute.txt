@@ -1,0 +1,10 @@
+d:\Users\Software1\Desktop\1000002030_Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.exe
+d:\Users\Software1\Desktop\1000002030_Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.pdb
+d:\Users\Software1\Desktop\1000002030_Proje\ChatSunucusu\ChatSunucusu\bin\Debug\ChatSunucusu.exe
+d:\Users\Software1\Desktop\1000002030_Proje\ChatSunucusu\ChatSunucusu\bin\Debug\ChatSunucusu.pdb
+d:\Users\Software1\Desktop\1000002030_Proje\ChatSunucusu\ChatSunucusu\bin\Debug\ASMESLIB.dll
+d:\Users\Software1\Desktop\1000002030_Proje\ChatSunucusu\ChatSunucusu\bin\Debug\ASMESLIB.pdb
+d:\Users\Software1\Desktop\1000002030_Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.csprojResolveAssemblyReference.cache
+d:\Users\Software1\Desktop\1000002030_Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.frmAna.resources
+d:\Users\Software1\Desktop\1000002030_Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.Properties.Resources.resources
+d:\Users\Software1\Desktop\1000002030_Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.csproj.GenerateResource.Cache

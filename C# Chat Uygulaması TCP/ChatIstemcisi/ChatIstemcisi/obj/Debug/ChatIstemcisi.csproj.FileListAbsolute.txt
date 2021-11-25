@@ -1,0 +1,12 @@
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\bin\Debug\ASMESLIB.dll
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\bin\Debug\ASMESLIB.pdb
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csprojResolveAssemblyReference.cache
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+d:\Users\Software1\Desktop\1000002030_Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.Cache
